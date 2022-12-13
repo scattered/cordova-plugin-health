@@ -410,10 +410,7 @@ static NSString *const HKPluginKeyUUID = @"UUID";
       @"HKCategoryTypeIdentifierSleepAnalysis":@{
         @"HKCategoryValueSleepAnalysisInBed":@(HKCategoryValueSleepAnalysisInBed),
         @"HKCategoryValueSleepAnalysisAsleep":@(HKCategoryValueSleepAnalysisAsleep),
-        @"HKCategoryValueSleepAnalysisAwake":@(HKCategoryValueSleepAnalysisAwake),
-        @"HKCategoryValueSleepAnalysisAsleepCore":@(HKCategoryValueSleepAnalysisAsleepCore),
-        @"HKCategoryValueSleepAnalysisAsleepDeep":@(HKCategoryValueSleepAnalysisAsleepDeep),
-        @"HKCategoryValueSleepAnalysisAsleepREM":@(HKCategoryValueSleepAnalysisAsleepREM)
+        @"HKCategoryValueSleepAnalysisAwake":@(HKCategoryValueSleepAnalysisAwake)
       }
     };
 
